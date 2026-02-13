@@ -1,0 +1,9 @@
+review_text,price,category,rating
+"Very good product",500,Electronics,4
+"Bad quality",300,Electronics,2
+"Excellent purchase",1200,Home,5
+"Not worth money",800,Home,2
+"Superb build quality",1500,Electronics,5
+"Average item",400,Kitchen,3
+"Highly recommend",2000,Electronics,5
+"Worst product",600,Kitchen,1
